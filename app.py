@@ -1,2 +1,2 @@
-def test_suma(a, b):
+def suma(a, b):
     return a + b 
